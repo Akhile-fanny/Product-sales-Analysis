@@ -7,7 +7,7 @@ A target market analysis is an assessment of how your product or service fits in
 
 The following questions will be answered:
 
-#Task:
+Task:
 Q: What was the best Year for sales? How much was earned that Year?
 
 Q: What was the best month for sales? How much was earned that month?
